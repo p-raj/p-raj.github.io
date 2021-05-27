@@ -35,3 +35,17 @@ direct marketing and direct interactions
 software started as all great things do, outliers being interested in exploring the possibilities.
 Next, it got accepted by businesses. Now, it is finally reaching a phase when it’s truly becoming tool of thought. 
 it would be the tool of the rebellious, the artists. 
+
+====
+
+# Thought: about software 
+- there are fundamentally 2 types of software - standalone and used by one person to create information and networked software - used to distribute information and collaborate. This means that primary force driving the software forward would differ for both the classes of software. 
+- Product should be configurable by the end user, not just how it feels, but how it works. Lego blocks. 
+- There is not enough experimentation with the product, primarily because it’s still hard to do A/B testing, have to rely on the tech to code and deliver. The process of thinking of a solution, building it and changing it, is complex, costly, and takes a lot of time. This time to deliver and gather feedback, could be shortened by the component based architecture, micro frontend.
+
+Q: how can marketing build and release a product for the customers to dry run?
+- Software should be more intelligent in understanding the user mistakes and then self correcting the mistakes or guessing the intent of the user and only proceeding with the correct input/information from the user. Showing error to the user is a bad ux. 
+  New set if frameworks are needed that would have inbuilt analytics for the product and features. Also help developers understand and deliver Improved software with every release. 
+
+Q: auto-pilot for the software? Where the computer does most of the things and suggests the appropriate action. 
+- Software needs to get even more vertical to deliver the intelligence. Software as a service —> Feature as a service. Where thr user can just drag and drop features they think would be useful and build their own version of the software, just for their own itch. 
