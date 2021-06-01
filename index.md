@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/p-raj/p-raj.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p-raj/p-raj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Abstraction](https://p-raj.github.io/abstraction.html)
+- [Angered by Question](https://p-raj.github.io/angered-by-questions.html)
+- [Inevitable](https://p-raj.github.io/arrow-of-future.html)
+- [Ask HN Discussion - Predictions](https://p-raj.github.io/askhn-a-new-decade-any-predictions.html)
+- [Bad Decisions](https://p-raj.github.io/bad-decision.html)
+- [Being Good](https://p-raj.github.io/being-good.html)
+- [NPS tools need to be improved](https://p-raj.github.io/better-user-nps.html)
+- [Bitcoin](https://p-raj.github.io/bitcoin.html)
+- [Blue Ocean](https://p-raj.github.io/blue-ocean.html)
+- [Capture Me](https://p-raj.github.io/capture-me.html)
+- [Easy Peasy](https://p-raj.github.io/easy-peasy.html)
+- [Expectations](https://p-raj.github.io/expectations.html)
+- [F2F Interviews](https://p-raj.github.io/face-to-face-interviews.html)
+- [IM-Perfect](https://p-raj.github.io/flaws-of-perfection.html)
+- [Grow Young](https://p-raj.github.io/grow-young.html)
+- [I Me Who](https://p-raj.github.io/i-me-who.html)
+- [Innovators / Builders](https://p-raj.github.io/innovators-vs-builders.html)
+- [Madness](https://p-raj.github.io/madness.html)
+- [Numbered Soul](https://p-raj.github.io/numbered-soul.html)
+- [Proble Solution](https://p-raj.github.io/problem-solution.html)
+- [Problems Solutions](https://p-raj.github.io/problems-solutions.html)
+- [Religion](https://p-raj.github.io/religion.html)
+- [Skills Knowledge Wisdom](https://p-raj.github.io/skills-knowledge-wisdom.html)
+- [Snowflake](https://p-raj.github.io/snowflakes.html)
+- [Tech Shifts](https://p-raj.github.io/tech-shifts.html)
+- [UI Today](https://p-raj.github.io/ui-today.html)
+- [UN-Productive](https://p-raj.github.io/un-productive.html)
+- [Villagers](https://p-raj.github.io/villagers.html)
+- [What-Desktop](https://p-raj.github.io/what-what-desktop.html)
+- [What goes around comes around](https://p-raj.github.io/y-2-x-2-y.html)
+- [Zeitgeist](https://p-raj.github.io/zeitgeist.html)
