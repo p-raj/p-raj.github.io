@@ -1,3 +1,0 @@
-theme: jekyll-theme-minimal
-title: inf..
-description: brain-dump that's rarely reread or edited or even updated
