@@ -1,4 +1,4 @@
-Project: Thought capturing app
-An app that can that sends you a random question at a random time question, like, "hey how are you feeling right now?", and you have to answer, as well as you could. Or, for an example example "what were you just thinking?", and you have to write that down the, honest to god, answer, and only you would be able to access the answer.
-The note should say a service that sends you a question daily one question just answer that question you have to answer honestly and whenever the question repeats itself it sends it analyses both of your answers and sends you the difference in your thoughts and process
-What would be the best service for a billionaire probably a podcast interviewing service that can send the billionaire a question daily that billionaire can probably an answer and that interview can be broadcasted
+# Project: Thought capturing app
+- An app that can that sends you a random question at a random time question, like, "hey how are you feeling right now?", and you have to answer, as well as you could. Or, for an example example "what were you just thinking?", and you have to write that down the, honest to god, answer, and only you would be able to access the answer.
+- The note should say a service that sends you a question daily one question just answer that question you have to answer honestly and whenever the question repeats itself it sends it analyses both of your answers and sends you the difference in your thoughts and process
+- What would be the best service for a billionaire probably a podcast interviewing service that can send the billionaire a question daily that billionaire can probably an answer and that interview can be broadcasted

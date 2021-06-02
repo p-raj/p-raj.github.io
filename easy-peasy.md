@@ -1,1 +1,1 @@
-Thought: Every job is easy, till one can be held responsible
+Thought: Every job is easy, till one is held responsible

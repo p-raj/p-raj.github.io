@@ -1,6 +1,6 @@
-Thought: How new industries/markets are built?
+# Thought: How new industries/markets are built?
 
-Question to ponder upon is - how to share the screen between two users? How dis it start? Who came up with the idea? Why were they able or unable to execute the idea then? What changed later when whole markets were built on the same idea, sometime later?
+Question to ponder upon is - how to share the screen between two users? How did it start? Who came up with the idea? Why were they able or unable to execute the idea then? What changed later when whole markets were built on the same idea, sometime later?
 
 Enabling IT support - a new industry. General idea - outsource the non-core work. Has been good in since the industrial age. The knowledge workers. Question is - would this trend continue or would it change? What’s the problem with outsourced? - it’s got an agenda if it’s own and might not think about whats best for the outsourcing company. 
 

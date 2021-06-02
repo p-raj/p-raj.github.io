@@ -23,17 +23,19 @@ this is an interesting field, as enterprise lacks in building great tools for th
 consumers expect apple like experience on every platform, things working, but companies are usually not able to provide that, since the most creative team is sitting elsewhere, and you are always chasing 
 
 It’s all about the CALENDAR sync
-a network over calendar 
-appointment with dr
-appointment with barber
-direct marketing and direct interactions 
+- a network over calendar 
+- appointment with dr
+- appointment with barber
+- direct marketing and direct interactions 
 
 ====
 
 # what software has become and what would it become 
 
 software started as all great things do, outliers being interested in exploring the possibilities.
+
 Next, it got accepted by businesses. Now, it is finally reaching a phase when it’s truly becoming tool of thought. 
+
 it would be the tool of the rebellious, the artists. 
 
 ====

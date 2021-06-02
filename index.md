@@ -17,7 +17,7 @@
 - [Innovators / Builders](https://p-raj.github.io/innovators-vs-builders.html)
 - [Madness](https://p-raj.github.io/madness.html)
 - [Numbered Soul](https://p-raj.github.io/numbered-soul.html)
-- [Proble Solution](https://p-raj.github.io/problem-solution.html)
+- [Problem Solution](https://p-raj.github.io/problem-solution.html)
 - [Problems Solutions](https://p-raj.github.io/problems-solutions.html)
 - [Religion](https://p-raj.github.io/religion.html)
 - [Skills Knowledge Wisdom](https://p-raj.github.io/skills-knowledge-wisdom.html)

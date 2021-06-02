@@ -1,12 +1,28 @@
-Desktop Notes
+# Bad Ideas
 
-IF
+You need bad ideas as much as you need the good ideas from your discussion with the team.
 
-You need bad ideas as much as you need the good ideas from your discussion with the team. I used to despise the people coming up with shitty ideas, ideas that clearly did not align with the goal or even are within the boundaries of the discussion. I have now realized is that every bad idea helps you and your team build a good idea into a great idea, bad ideas nudges your good idea in a proper direction. Bad ideas help you understand the understanding gap your team has on and agenda. Another benefit of listening to the bad ideas is that people open up and share their wildest ideas. A bad idea is only bad in one context, it could be a great idea in some other context. Keeping mind open to ideas is more important than labeling those bad and good.
+I used to despise the people coming up with shitty ideas, ideas that clearly did not align with the goal or even are within the boundaries of the discussion. 
+
+I have now realized is that every bad idea helps you and your team build a good idea into a great idea, bad ideas nudges your good idea in a proper direction. 
+
+Bad ideas help you understand the understanding gap your team has on and agenda. 
+
+Another benefit of listening to the bad ideas is that people open up and share their wildest ideas. 
+
+A bad idea is only bad in one context, it could be a great idea in some other context. Keeping mind open to ideas is more important than labeling those bad and good.
 
 ================
 
-# When to communicate? - the cost of communication is quite high, in terms of time and error. While reaching a decision there should be a lot of communication and a lot of discussion. Once a certain decision has been made and the tasks have been delegated, ideally there should be no more need of communication, unless the decision needs to be changed. While all the parties are busy executing their tasks (and not communicating) the central coordinator's level of anxiety would be increasing, to offset the anxiety there is need for communication, just a health check that everything is alright. anxiety threshold v/s communication time balance.
+# When to communicate?
+The cost of communication is quite high, in terms of time and error. 
+While reaching a decision there should be a lot of communication and a lot of discussion. 
+
+Once a certain decision has been made and the tasks have been delegated, ideally there should be no more need of communication, unless the decision needs to be changed.
+
+While all the parties are busy executing their tasks (and not communicating) the central coordinator's level of anxiety would be increasing, to offset the anxiety there is need for communication, just a health check that everything is alright. 
+
+Balance between - Anxiety-threshold v/s communication-time.
 
 ================
 
@@ -18,6 +34,7 @@ Single Dedicated Industry => Merging 2 Industries => Merging 3 Industries. Just 
 # Starting from the scratch
 
 the greatest Chemist, physicist, mathematicians, of whom theories (without proof) are validated today and are deemed as genius who lived a long time ago and saw the future. Those people started the field, with what they had, started from scratch, build assumption when there were none. they proved things that they could, and the things they could not, they theorized, for once the technology is there those theories could be proven (right or wrong). 
+
 The common theme here is - knowing things since the beginning, starting from scratch. Subject doesn't matter, what matters is that you do the best you can with what you have, and have a great plan for how this could be in future, what future it could create. 
 the geniuses work to develop from scratch. 
 
@@ -43,7 +60,7 @@ logos abstract out the complex details to represent everything with just a symbo
 5. Movie Classification -
   - good, bad, rating
   - genere, horror, 
-6. Photobombing detection and removal
+6. Photo-bombing detection and removal
 7. Function as a service marketplace, list, build, deploy services (+AI to auto-build apps)
 8. Generate Metallica Songs
 	-> Text to Speech + Voice
@@ -55,33 +72,36 @@ logos abstract out the complex details to represent everything with just a symbo
 11. how can we transfer experience with the words?
 12. inter neural network architecture weights exchange. (offline) CNN trained to -> (online) FFN (feed fwd)
 13. Fix the Videos (udacity) <-> 
-what you have spoken <=> transcript ! modify transcript to regenerate the videofosu
+what you have spoken <=> transcript ! modify transcript to regenerate the videos
 
-# Random Thoughts - 
+# Thoughts - 
 
 Karma - your positive influence on the world, friends, enemies, strangers alike. 
+
 You have a responsibility to balance out your good karma with your bad karma.
 While performing your karma, always be mindful about the influence, the good it will bring, the bad it will bring and then just let go of the feelings and keep performing. 
-Karma man, a new comic book series. 
 
-==================
-
-# Thoughts + Idea - 
-There needs to be sometime between Google and duck duck go, I only care about a few private things and duck duck go takes privacy to the extreme
+? Karma man, a new comic book series. 
 
 ==================
 
 # Thoughts - 
-VR, AI, Crypto and the future of the society.
-With AI infiltrating the work, initially starting to automate with what the human can think in a second, to what a human can think in a life time. 
-This means job loss, for most of the people.
-Machines optimise the outcome, and eventually would provide a chaos free environment, that means monotonous life. 
-People have to look for another world, and that would be the VR.
-The higher the computation power you have, better life you would lead in the virtual reality. 
-Higher computation, cheaper computation, and with that comes the AI and currency. 
-Bitcoin is the currency of the future. 
-Welcome, everyone to the simulator.
+There needs to be sometime between Google and duck duck go, I only care about a few private things and duck duck go takes privacy to the extreme
 
 ==================
 
+# Thoughts
+- VR, AI, Crypto and the future of the society.
+- With AI infiltrating the work, initially starting to automate with what the human can think in a second, to what a human can think in a life time. 
+	- This means job loss, for most of the people.
+- Machines optimize the outcome, and eventually would provide a chaos free environment, that means monotonous life. 
+- People have to look for another world, and that would be the VR.
+- The higher the computation power you have, better life you would lead in the virtual reality. 
+- Higher computation, cheaper computation, and with that comes the AI and currency. 
+- Bitcoin is the currency of the future. 
+- Welcome, everyone to the simulator.
+
+==================
+
+# Thoughts
 data that can govern the user behaviour, such as restaurant ratings and all should not come under a company, it should be open and honest data. blockchain based zomato ratings. 

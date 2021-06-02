@@ -11,7 +11,7 @@
   - How to help such individuals find their network?
   - How  to help such individuals to get to a point where they can express their feelings, clearly; and ask their questions, openly?
 
-# Solution!:
+# Solution:
 - A private social network. to find and join a group
   - you have to answer a set of questions: about beliefs, or feeling
   - you have to put forward your own set of questions, feelings and beliefs
@@ -20,5 +20,6 @@
   - their answers would be exposed to you
   - now if both sides accept the answers, you become a part of your group.
 
+# In the Wild
 https://techcrunch.com/2020/11/17/yubo-could-be-the-next-big-social-app-as-it-raises-47-5-million/
 
