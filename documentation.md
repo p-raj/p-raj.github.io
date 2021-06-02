@@ -32,3 +32,16 @@ Align the engineering team with sales, and the customer\]
 - [Many](https://about.gitlab.com/company/culture/all-remote/asynchronous/
 - [remote](https://buffer.com/resources/asynchronous-meetings/)\
 - [first](https://www.loom.com/blog/asynchronous-meeting) companies have been moving their meetings, stand ups, onboarding and kick-offs to be asynchronous. It’s not a silver bullet, but makes a lot of sense when your team is spread out across many timezones. Inspired by this, we’ve tried to combine async standup meetings with a local “Stackoverflow” and came up with what we call “Developer Logs”.
+
+# Project Progress-Bar
+
+For every tech tutorial out there, there should be a parallel track progress bar which can provide the user with a set of questions. Based on the quality of the user's answers, the progress bar should suggest the proper track.
+
+Visualization - Tree like structure - parallel to the chapters
+
+-   the concepts would be attached to one another, one or more flowing into each other - thus displaying a proper dependency on the topics a user needs to know before proceeding any further
+-   The user can select any topic card and the card expands to display the user with a set of questions
+-   practical questions - should you use hashmaps to store integers, etc
+-   definition questions - what are hashmaps
+-   programming questions - what would be the output of the code
+-   this way the user can read about the topics and test their knowledge of the programming language or programming concepts
