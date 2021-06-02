@@ -37,3 +37,5 @@
 - [importance-of-value](https://p-raj.github.io/importance-of-value.html)
 - [interactive-demos](https://p-raj.github.io/interactive-demos.html)
 - [why-build-anything](https://p-raj.github.io/why-build-anything.html)
+- [unified infrastructure layer](https://p-raj.github.io/unified-framework.html)
+- [us-vs-them](https://p-raj.github.io/us-vs-them.html)
