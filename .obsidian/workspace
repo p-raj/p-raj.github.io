@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "arrow-of-future.md",
+            "file": "zeitgeist.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arrow-of-future.md",
+                "file": "zeitgeist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,15 @@
   },
   "active": "c262523027183cd8",
   "lastOpenFiles": [
-    "arrow-of-future.md",
-    "bad-decision.md",
-    "askhn-a-new-decade-any-predictions.md",
-    "abstraction.md",
-    "angered-by-questions.md"
+    "zeitgeist.md",
+    "y-2-x-2-y.md",
+    "why-build-anything.md",
+    "what-what-desktop.md",
+    "villagers.md",
+    "us-vs-them.md",
+    "unified-framework.md",
+    "un-productive.md",
+    "ui-today.md",
+    "tech-shifts.md"
   ]
 }

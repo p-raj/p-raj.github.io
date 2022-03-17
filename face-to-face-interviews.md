@@ -18,8 +18,8 @@ The online meetings are
 
 Whereas, the face to face meetings are about getting to know the other person.
 I am an introvert, still, getting to to know about random strangers is fun (sometimes).
-How can this feeling of fun be introduced to the online meetings? 
-How can the online interviews be made more humane? 
-How can we reduce the friction of online meetings?
+- How can this feeling of fun be introduced to the online meetings? 
+- How can the online interviews be made more humane? 
+- How can we reduce the friction of online meetings?
 
 It's pretty clear with the adoption of remote work-culture that we need to address this problem ASAP.

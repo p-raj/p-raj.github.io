@@ -1,1 +1,1 @@
-happiness for others, pains for self, feel more intensive than they really are.
+happiness for others, pains for self, feels more intensive than it really is.

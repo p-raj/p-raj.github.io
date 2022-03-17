@@ -31,24 +31,34 @@ Human beings are riddled with biases, we have individual biases, then we have gr
 ## A few mental models that are relevant to the discussion here - 
 ### The map is not the territory
 Whatever you think you know, about something that you have not developed from scratch, or thought about deeply, your knowledge would always be limited. Things change fast, what you know might not be relevant anymore. Always test your biases about knowing something.
+
 ### Circle of competence
 Those who have an answer to every question have the right answer to none. If you are standing up for something or rejecting something, your knowledge about a topic should be very deep. Always know what’s known-know, known-unknown, unknown-unknown.
+
 ### Curiosity Instinct
 A human being is the most curious species, among all the other primates. From being the weaklings of the animal kingdom to now controlling the environment, we had to develop a big brain, that can imagine and create tools, we can communicate facts and more importantly imagined stories. PFC in humans is disproportionately larger than in other primates. Don’t hold back your curiosity.
+
 ### First Principles thinking
 Because we have the propensity to imagine and communicate stories and larger than life facts, just to hold the attention of our listeners, always recheck the told facts, don’t get fooled by some preconceived notions and interesting stories
+
 ### Compounding
 When you read about two topics you don’t just get two thoughts, one for each topic, rather, you get three ideas, one about each and one about topics merged. Imagine this for n-topics. Imagine this for n-closely-related topics, and you build your circle of competence. Imagine this of n-totally-unrelated topics, and you spark your curiosity instinct.
+
 ### The tendency to minimize energy utilization
 Let’s just acknowledge, we are lazy, everyone is, you are not special, biologically (or might be you are, but that’s not the point). Whatever information intake, our brain compresses it to the extreme, in your subconscious and long term storage; not just the brain, but our muscles as well, store the experiences (muscle memory has been proven). This is to make sure that while performing a task, you are utilizing the least amount of memory, all the actions are triggered subconsciously. “Practice makes a man perfect”, is true, scientifically.
+
 ### First conclusion bias
 This is the negative side of the point described above, we don’t want to double think about something, that’s why our idea is the best idea. That’s why it’s good to have brainstorming sessions.
+
 ### Confirmation bias
 We have a tendency to ignore the information that goes against our belief system.
+
 ### Emergence
 The complex systems evolve from simple systems. Complex ideas evolve from simple ideas. Complex organisms evolve from simple ones. You get the idea. Thinking from the first-principles helps you decode the complex ideas, compounding lets you build complex ideas.
+
 ### Social Proof
 In a group, you do what the group does, however wrong or right the action might be. Mobs would kill innocents, burn busses, don’t raise questions, don’t rock the boat, don’t stand up to leave the meeting before anyone else (even when there is a fire in the room).
+
 # The fuck this has to do with the infinity?
 #### Can I get my infinity now?
 > “How you do anything is how you do everything” -- Buddha (or someone)

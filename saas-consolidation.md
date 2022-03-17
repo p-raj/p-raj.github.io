@@ -1,4 +1,4 @@
-    # SaaS consolidation/>? What next?
+# SaaS consolidation/>? What next?
 
 -   In house software
 -   Software tools

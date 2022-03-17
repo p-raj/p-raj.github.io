@@ -6,7 +6,7 @@ I used to despise the people coming up with shitty ideas, ideas that clearly did
 
 I have now realized is that every bad idea helps you and your team build a good idea into a great idea, bad ideas nudges your good idea in a proper direction. 
 
-Bad ideas help you understand the understanding gap your team has on and agenda. 
+Bad ideas help you understand the understanding gap your team has 
 
 Another benefit of listening to the bad ideas is that people open up and share their wildest ideas. 
 
@@ -16,6 +16,7 @@ A bad idea is only bad in one context, it could be a great idea in some other co
 
 # When to communicate?
 The cost of communication is quite high, in terms of time and error. 
+
 While reaching a decision there should be a lot of communication and a lot of discussion. 
 
 Once a certain decision has been made and the tasks have been delegated, ideally there should be no more need of communication, unless the decision needs to be changed.
@@ -33,14 +34,22 @@ Single Dedicated Industry => Merging 2 Industries => Merging 3 Industries. Just 
 
 # Starting from the scratch
 
-the greatest Chemist, physicist, mathematicians, of whom theories (without proof) are validated today and are deemed as genius who lived a long time ago and saw the future. Those people started the field, with what they had, started from scratch, build assumption when there were none. they proved things that they could, and the things they could not, they theorized, for once the technology is there those theories could be proven (right or wrong). 
+the greatest Chemist, physicist, mathematicians, of whom theories (without proof) are validated today and are deemed as genius who lived a long time ago and saw the future. 
 
-The common theme here is - knowing things since the beginning, starting from scratch. Subject doesn't matter, what matters is that you do the best you can with what you have, and have a great plan for how this could be in future, what future it could create. 
+Those people started the field, with what they had, started from scratch, built assumption when there were none. They proved things that they could, and the things they could not, they theorized, for once the technology is there, those theories might get proven (right or wrong). 
+
+The common theme here is - knowing things since the beginning, starting from scratch. 
+
+Subject doesn't matter, what matters is that you do the best you can with what you have, and have a great plan for how this could be in future, what future it could create. 
 the geniuses work to develop from scratch. 
 
-where I am going with the theory, we have the same opportunity. and in future as well we should think everything from the beginning (not saying to write react, but if we are using it we should know the "why" and the theory behind it. we should only focus on what we have to build, Einstein was a physicist and not a biologist or mathematician, but he used those tools and knew them)
+Where I am going with the theory, we have the same opportunity. 
 
-think from your past experiences, if the theory is true. any small/big thing done from scratch left you with a vision of the future.
+We should think everything from the beginning (not saying to write react, but if we are using it we should know the "why" and the theory behind it. 
+
+We should only focus on what we have to build, Einstein was a physicist and not a biologist or mathematician, but he used those tools and knew them)
+
+Think from your past experiences, any small/big idea built up from scratch would have left you with a vision of the future.
 
 ================
 
