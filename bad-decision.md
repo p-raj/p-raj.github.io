@@ -5,5 +5,7 @@ if one can’t justify their decision, in the clearest terms, and, since the com
   - criticize the judgment 
   - criticize the leader
   - become indifferent
-  - gets confused and their productivity tanks
+  - gets confused and their productivity tanks.
+
+
 It’s a loose-loose relationship if a leader can't justify their decisions, answer the questions openly.
