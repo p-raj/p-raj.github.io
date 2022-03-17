@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "cb03408bf9cafec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c262523027183cd8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "arrow-of-future.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c831814fa429141f",
+    "type": "split",
+    "children": [
+      {
+        "id": "89863aacdc4ca606",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59681d3d124665ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "95bed46a9e8084b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9185789188499df",
+    "type": "split",
+    "children": [
+      {
+        "id": "7da380e112ef92ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "847cb92f75062c7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "arrow-of-future.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c262523027183cd8",
+  "lastOpenFiles": [
+    "arrow-of-future.md",
+    "bad-decision.md",
+    "askhn-a-new-decade-any-predictions.md",
+    "abstraction.md",
+    "angered-by-questions.md"
+  ]
+}

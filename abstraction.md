@@ -9,5 +9,6 @@ The disruption comes, not from going abstract, but by going deep.
 New software would enable the users to go deep, and play with the fundamentals of the system. 
 
 Eg: visualize the data pipelines to the user, or visualize the car in real-time, on the uber’s interface. 
+
 Eg: "Bare metal software":"naked software". Show what’s going on, under the hood, of the software they are using.
 

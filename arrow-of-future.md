@@ -1,4 +1,4 @@
-Trying to capture where the world of software is headed?
+Trying to capture the future of the software?
 
 # Enterprise Tech - it all started with excel and it’s moving back towards excel 
 - Enterprise software is peaking. Everyone wants to sell the same thing, some version of Excel replacement, with Forms and Boxed UI
@@ -7,6 +7,7 @@ Trying to capture where the world of software is headed?
 - Users have too many interfaces to switch, too many UX to adopt. Everyone copies in their own style. Have their own language.
 	-  Software adoption is a new challenge faced by the SaaS vendors
 - Excel started with data mgmt, the UX was keyboard driven, and consistent. Innovating beyond excel is the best bet for the software, and not happening fast enough.
+[Ref: Abstraction](https://p-raj.github.io/abstraction.html)
 
 # Consumer Tech - is all about easier tools to build and share
 Audio, video are great
@@ -41,7 +42,9 @@ consumers expect apple like experience on every platform, things working, but co
 
 Software started as all great things do, outliers being interested in exploring the possibilities.
 
-Next, it got accepted by businesses. Now, it is finally reaching a phase when it’s truly becoming tool of thought. 
+Next, it got accepted by businesses. 
+
+Now, it is finally reaching a phase when it’s truly becoming tool of thought. 
 
 it could be the tool of the rebellious, the artists.
 

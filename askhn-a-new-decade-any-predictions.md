@@ -60,7 +60,7 @@ COVID Effects -
 - Hospitals --> doctor on demand + cheap sensors (apple watch) + remote clinic (expensive machines and tests only) + same doctor everywhere (personal doctor)
 
 
----------------------------------------------------------------------------
+---------------------------------------------------------------------
 
 Around the middle of the decade - 
 

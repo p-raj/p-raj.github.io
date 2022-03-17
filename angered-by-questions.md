@@ -1,5 +1,4 @@
-Thought: if one gets agitated by the questions
-the reasons could be one of the following 
+Thought: if one gets agitated by the questions, the reasons could be one of the following 
 -  they are trying to manipulate you
 - don’t have an answer, but putting up a facade 
 - saving their ego
