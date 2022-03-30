@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zeitgeist.md",
-            "mode": "source"
+            "file": "NoDo.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zeitgeist.md",
+                "file": "NoDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "c262523027183cd8",
   "lastOpenFiles": [
+    "NoDo.md",
+    "about-me.md.md",
+    "abstraction.md",
     "zeitgeist.md",
     "y-2-x-2-y.md",
     "why-build-anything.md",
     "what-what-desktop.md",
     "villagers.md",
     "us-vs-them.md",
-    "unified-framework.md",
-    "un-productive.md",
-    "ui-today.md",
-    "tech-shifts.md"
+    "unified-framework.md"
   ]
 }
