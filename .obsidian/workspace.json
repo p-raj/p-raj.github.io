@@ -11,11 +11,28 @@
             "id": "78de759a8a3154ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "i-me-who.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31fa74a0c82ca0a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recurring-regret.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "recurring-regret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,9 +125,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "78de759a8a3154ce",
+  "active": "31fa74a0c82ca0a7",
   "lastOpenFiles": [
-    "Why should you have a new-year's resolution?.md",
-    "why-new-year-resolution.md"
+    "i-me-who.md",
+    "recurring-regret.md",
+    "Untitled.canvas",
+    "why-new-year-resolution.md",
+    "why-build-anything.md",
+    "Why should you have a new-year's resolution?.md"
   ]
 }
