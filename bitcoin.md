@@ -1,18 +1,18 @@
-# Thought: About bitcoin
-- bitcoin is mined
-- bitcoin's value is pegged on the "gold standard" of computation
-- only 21 million bitcoin can be mined, just like the gold
-- bitcoin transactions are like the bank transactions, except, that anyone can verify a public ledger
+# Thought: About Bitcoin
+- Bitcoin is mined
+- Bitcoin's value is pegged to the "gold standard" of computation
+- Only 21 million bitcoins can be mined, just like gold
+- Bitcoin transactions are like bank transactions, except that anyone can verify a public ledger
 
-making the bank's private ledger, a public ledger (since txn are open, once you know the account owner, you know their wealth. aligned with govts, not aligned with individuals demanding privacy. could be the future.)
+Making the bank's private ledger a public ledger (since transactions are open, once you know the account owner, you know their wealth) is aligned with governments but not aligned with individuals demanding privacy. This could be the future.
 
-taking the salaried ledger checkers, and transforming them into miners. Miners are sort of non-salaried contractors, like drivers for the uber, who would work on demand (aligned incentive)
+The process takes the salaried ledger checkers and transforms them into miners. Miners are sort of non-salaried contractors, like drivers for Uber, who would work on demand (aligned incentive).
 
-## blockchain
-bitcoin is regulated by the market's demand
+## Blockchain
+Bitcoin is regulated by the market's demand.
 
-The fiat currency used to be pegged on the "gold standard", and not it's regulated by the country's regulators, a selected bunch of economists and policy makers. In response to one of the country printing more currency, other country's can choose to print their own currency or not; thus keeping the exchange rates in check. There is a complex network of country's at play here.
+Fiat currency used to be pegged to the "gold standard," and now it's regulated by the country's regulators, a selected group of economists and policymakers. In response to one country printing more currency, other countries can choose to print their own currency or not, thus keeping the exchange rates in check. There is a complex network of countries at play here.
 
-If bitcoin were to become the next generation's currency, it needs a similar complex network, that can change in response to the market's demands.
+If bitcoin were to become the next generation's currency, it needs a similar complex network that can change in response to the market's demands.
 
-Bitcoin would become the next generation's default currency, since the next generation would be digitally native. For the next generation, in their mind set, printed currency is no different from the virtual currency. To move out their currency from one ecosystem to the another, they would need to rely on the bitcoin. Like we rely on the gold today.
+Bitcoin would become the next generation's default currency since the next generation would be digitally native. For the next generation, in their mindset, printed currency is no different from virtual currency. To move their currency from one ecosystem to another, they would need to rely on bitcoin, like we rely on gold today.

@@ -9,3 +9,6 @@ I don't remember what I was thinking at the time.
 The idea was around providing a uniform interface over all the open source services, such that the services could act like a drop-in replacement of the cloud services. 
 
 Eg: If the customers are using SQS, and they want to migrate to managed or self-hosted kafka, then all they need to do is change the adapter.
+
+# De-cloud
+Cloud had it's moment. It's time to go back to bare-metal providers. Cheap access to hardware that can run software clusters.
