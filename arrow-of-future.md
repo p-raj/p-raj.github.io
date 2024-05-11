@@ -74,7 +74,7 @@ In the future, software could become the tool of the rebellious and the artists,
 - There are fundamentally two types of software:
   1. Standalone software, used by one person to create information
   2. Networked software, used to distribute information and collaborate
-  The primary force driving each class of software forward will differ.
+  The primary force driving each of these classes of software forward will differ.
 
 - Products should be configurable by the end-user, not just in how they feel but also in how they work. Think of it as building with Lego blocks.
 
@@ -82,8 +82,12 @@ In the future, software could become the tool of the rebellious and the artists,
 
 Q: How can marketing teams build and release a product for customers to test and provide feedback?
 
-- Software should be more intelligent in understanding user mistakes, self-correcting them, or guessing the user's intent and proceeding only with the correct input/information. Showing errors to the user is a poor user experience. A new set of frameworks is needed that would have built-in analytics for the product and features. This would also help developers understand and deliver improved software with every release.
+- Software should be more intelligent in understanding user mistakes, self-correcting them, or guessing the user's intent and proceeding only with the correct input/information.
+- Showing errors to the user is a poor user experience.
+- A new set of frameworks is needed that would have built-in analytics for the product and features.
+- This would also help developers understand and deliver improved software with every release.
 
 Q: Is there a way to create an auto-pilot for software, where the computer does most of the tasks and suggests appropriate actions?
 
-- To deliver intelligence, software needs to become even more vertical. This could involve a shift from Software as a Service (SaaS) to Feature as a Service (FaaS), where users can drag and drop features they find useful and build their own version of the software to suit their specific needs.
+- To deliver intelligence, software needs to become even more vertical. 
+- This could involve a shift from Software as a Service (SaaS) to Feature as a Service (FaaS), where users can drag and drop features they find useful and build their own version of the software to suit their specific needs.
