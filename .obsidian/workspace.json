@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "un-productive.md",
+                "file": "software-2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "un-productive.md",
+                "file": "software-2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +114,10 @@
   },
   "active": "07ee96aeb55201bc",
   "lastOpenFiles": [
-    "unified-framework.md",
+    "tech-shifts.md",
+    "ui-today.md",
     "un-productive.md",
+    "unified-framework.md",
     "us-vs-them.md",
     "villagers.md",
     "why-build-anything.md",
@@ -137,8 +139,6 @@
     "recurring-regret.md",
     "angered-by-questions.md",
     "abstraction.md",
-    "about-me.md.md",
-    "index.md",
-    "NoDo.md"
+    "about-me.md.md"
   ]
 }

@@ -1,10 +1,9 @@
 # Thought: Technological Shifts
 
-Do we need a software backend? 
-to handle the data?
+Do we need a software backend to handle the data?
 
 What if the companies run out of money?
-Software built by the company us still used by a small number of people 
+	Software built by the company is still used by a small number of people 
 
 If there were no hosting costs to a software, the software could be used and extended by the customers forever.
 
